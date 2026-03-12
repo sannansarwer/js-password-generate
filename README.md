@@ -6,7 +6,7 @@ A simple, responsive, and professional Random Password Generator built with HTML
 
 The project can be run locally in any modern web browser.
 OR
-Live Demo # 
+Live Demo # https://sannansarwer.github.io/js-password-generate/
 
 ## 📝 Features
 
