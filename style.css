@@ -1,0 +1,26 @@
+body {
+    background: #e9ecf4;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.card {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+.form-range {
+    flex: 1;
+}
+@media (max-width: 576px) {
+    .d-flex.gap-3.flex-wrap {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .form-range {
+        width: 100% !important;
+    }
+}
