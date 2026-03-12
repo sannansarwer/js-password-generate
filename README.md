@@ -24,15 +24,15 @@ Live Demo #
 
 ## 🛠️ Technologies Used
 
-. HTML5 – Structure of the page.
+- HTML5 – Structure of the page.
 
-. CSS3 – Styling, including responsiveness and custom design.
+- CSS3 – Styling, including responsiveness and custom design.
 
-. JavaScript (ES6) – Logic for password generation, copy functionality, and interactivity.
+- JavaScript (ES6) – Logic for password generation, copy functionality, and interactivity.
 
-. Bootstrap 5 – Responsive grid system and UI components.
+- Bootstrap 5 – Responsive grid system and UI components.
 
-. Font Awesome – Icons for copy and success indicators.
+- Font Awesome – Icons for copy and success indicators.
 
 ## 🖱️ Usage
 
@@ -49,13 +49,15 @@ Live Demo #
 ## 🧩 File Structure
 
 password-generator/
-│
+
 ├─ index.html          # Main HTML file
 
 ├─ css/
+
     └─ style.css        # Custom CSS styling
     
 ├─ js/
+
     └─ script.js        # JavaScript functionality
     
 └─ README.md           # Project documentation
